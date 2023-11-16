@@ -201,4 +201,4 @@ print("Hello World!")
 
 ![comments](img/comments.png)
 
-Les commentaires sont définis par un symbole `#` en début de ligne.
+Les commentaires en Python sont définis par un symbole `#` en début de ligne.
