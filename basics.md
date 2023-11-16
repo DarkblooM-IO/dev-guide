@@ -81,6 +81,7 @@ Voyons ce que ça donne :
 Parfait ! Notre nom apparaît correctement.
 
 Tu te demande peut-être : *Mais du coup quel est l'intérêt ?*
+<br>
 
 Tu as raison de te poser la question, laisse moi répondre avec un exemple tout bête :
 
