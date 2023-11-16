@@ -105,7 +105,7 @@ print(nom, "aime beaucoup les pommes, alors il va au marché pour en acheter.")
 print(nom, "a des pommes, il est heureux.")
 ```
 
-> <span style="font-size: .9rem">**Note :** remarque les virgules utilisée dans la fonction `print`. Elles servent à séparer les différents que l'on veut afficher ensemble.</span>
+> <span style="font-size: .9rem">**Note :** remarque les virgules utilisée dans la fonction `print`. Elles servent à séparer les différents éléments que l'on veut afficher ensemble.</span>
 
 C'est tout de suite plus confortable. Si on veut changer le nom du jeune homme, il suffit de changer la chaîne de caractères assignée à la variable `nom`.
 
